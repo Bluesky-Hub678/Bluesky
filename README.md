@@ -1,2 +1,4 @@
 # Bluesky
-Shiny sky 
+<shiny sky>
+<running man>
+<+$100>
